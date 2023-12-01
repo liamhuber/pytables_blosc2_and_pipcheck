@@ -1,0 +1,4 @@
+channels:
+  - conda-forge
+dependencies:
+  - pytables =3.9.2
